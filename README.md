@@ -27,3 +27,7 @@ The entire project was developed and tested on EDA Playground, a free, browser-b
 
 5. Conclusion and Key Learning Outcomes
 This task demonstrated a successful implementation of a basic synchronous RAM in Verilog and highlighted the importance of testbench design and waveform analysis in digital circuit verification. Through EDA Playground, the entire design-to-simulation cycle was completed seamlessly in an online environment. The RAM module behaved as expected, performing write operations on clock edges when the write enable signal was high and correctly outputting stored data during read operations. By dumping waveforms into a .vcd file, a clear and detailed understanding of timing relationships and signal behavior was achieved. This project reinforces key digital design concepts such as memory modeling, clock synchronization, and simulation-driven debugging. The modular approach and clear structure of the Verilog code also make the RAM module reusable in larger projects, such as processor data paths, buffers, and cache implementations.
+
+OUTPUT:
+
+<img width="1883" height="392" alt="Image" src="https://github.com/user-attachments/assets/51685c53-2177-4b1f-a254-7f05bfaef2db" />
